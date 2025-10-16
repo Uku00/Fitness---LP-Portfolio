@@ -6,7 +6,7 @@
 配色・タイポグラフィ・レイアウトを独自にアレンジして制作しました。
 
 🔗 **公開ページ（GitHub Pages）**  
-👉
+👉https://uku00.github.io/Fitness---LP-Portfolio/
 
 ---
 
